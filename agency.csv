@@ -1,0 +1,8 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+"1","山梨交通グループ","http://yamanashikotsu.co.jp/","Asia/Tokyo","","",""
+"2","富士急行グループ","http://www.fujikyu.co.jp/","Asia/Tokyo","","",""
+"5","甲斐市","http://www.city.kai.yamanashi.jp/","Asia/Tokyo","","",""
+"9","中央市","http://www.city.chuo.yamanashi.jp/sougou/","Asia/Tokyo","","",""
+"11","南アルプス市","http://www.city.minami-alps.yamanashi.jp/","Asia/Tokyo","","",""
+"21","山交タウンコーチ（静岡営業所管内）","","Asia/Tokyo","","",""
+"22","富士川町","http://www.town.fujikawa.yamanashi.jp/","Asia/Tokyo","","",""
